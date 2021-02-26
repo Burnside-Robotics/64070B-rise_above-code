@@ -1,0 +1,5 @@
+Download VexCode IQ from https://www.vexrobotics.com/vexcode-download
+
+Then open this file on the top left...
+
+This is a C++ file not code blocks
